@@ -1,0 +1,15 @@
+x=int(input("enter intger value"))
+y=float(x)
+z=str(x)
+print("the float value of x is:",y)
+print("the string value of z is:",z)
+a=3.6
+b=int(a)
+c=str(a)
+print(b)
+print(c)
+r="8"
+s=int(r)
+t=float(r)
+print(s)
+print(t)

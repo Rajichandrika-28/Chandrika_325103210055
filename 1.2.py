@@ -1,0 +1,5 @@
+x=int(input("enter integer value:"))
+y=float(input("enter float value:"))
+z=complex(input("enter a complex number:"))
+a=str(input("enter a string:"))
+b=bool(input("enter a boolean value:"))
